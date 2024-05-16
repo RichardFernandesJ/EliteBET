@@ -2,14 +2,9 @@ import os
 import random
 import sys
 from time import sleep
-cpf = ''
-user = ''
-pasw = ''
-useradm = ''
-paswadm = ''
+cpf = user = pasw = useradm = paswadm = ''
 login = True
-resp = 0
-c = 0
+resp = c = 0
 print('\033[30m','=-'*10,'\033[34m','ELITEBET','\033[30m','=-'*10,'\033[m')
 print('')
 print('BEM-VINDO AO ELITEBET!')

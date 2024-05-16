@@ -144,7 +144,6 @@ if resp == 1:
                                 num = random.randint(0, 70)
                                 print(' Entre 0 a 70')
                             print('\033[m\033[32m-=\033[m' * 30)
-                            print(num)
                             elite = int(input('\033[m\033[33mQual é o numero? '))
                             if elite == num:
                                 print('\033[m\033[32m-=\033[m' * 30)

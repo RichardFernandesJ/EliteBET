@@ -5,7 +5,7 @@
 
 ## Descrição
 
-O **EliteBet** é um software de um site de aposta criado do 0. Software composto somente pelo backend. 
+O **EliteBet** é um software criado do 0 utilizando minha imaginação.
 
 **Pasta Cod**
 - Contem o codigo do software
